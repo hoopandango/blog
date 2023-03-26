@@ -1,4 +1,6 @@
 baseURL = '/'
+workingDir = 'manifestations/'
+
 languageCode = 'en-gb'
 title = 'manifestations'
 theme = 'poison'
