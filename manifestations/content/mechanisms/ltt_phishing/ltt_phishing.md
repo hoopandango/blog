@@ -1,5 +1,5 @@
 ---
-title: "LTT attacked: lessons in phishing."
+title: "LTT attack: lessons in phishing"
 date: 2023-03-26T19:40:50+05:30
 draft: false
 ---
