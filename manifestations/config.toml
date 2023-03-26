@@ -1,13 +1,15 @@
-baseURL = 'https://hoopandango.github.io/blog/'
+baseURL = 'https://hoopandango.github.io/blog'
 workingDir = 'manifestations/'
 
 languageCode = 'en-gb'
 title = 'manifestations'
 theme = 'poison'
 pluralizelisttitles = false
+canonifyURLs = true
 
 [params]
     brand = "manifestations"
+		favicon = '/images/favicon.ico'
     brand_image = "/images/logo.png"   
     description = "condensation of nascent imaginations upon reality."
     dark_mode = true
