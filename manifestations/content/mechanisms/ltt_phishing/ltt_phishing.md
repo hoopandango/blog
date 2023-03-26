@@ -116,7 +116,7 @@ there are many other things that the site does to gain users' trust, such as dis
 ## references / further reading
 
 - linus's original video about this - https://youtu.be/yGXaAWbzl5A
-- thiojoe's explanation of the working of - thiojoe's explanation of these cryptocurrency scams https://youtu.be/xf9ERdBkM5M
+- thiojoe's explanation of these cryptocurrency scams https://youtu.be/xf9ERdBkM5M
 - guardio's article on streamjacking, which describes the more technical aspects of this attack - https://labs.guard.io/streamjacking-hijacking-hundreds-of-youtube-channels-per-day-propagating-elon-musk-branded-730944bbbfe6
 - behavioural analysis of a similar malware from 2021, which was used to steal NFT data - https://julienvandorland.substack.com/p/the-scr-malware-hack-explained
 - google threat analysis group (TAG)'s report from 2021 about youtube cookie stealing attacks - https://blog.google/threat-analysis-group/phishing-campaign-targets-youtube-creators-cookie-theft-malware/

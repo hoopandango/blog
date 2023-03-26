@@ -17,6 +17,7 @@ canonifyURLs = true
 
     twitter_url='https://twitter.com/PanDango11'
     youtube_url='https://www.youtube.com/@hoopandango'
+		github_url='https://github.com/hoopandango'
 
     menu = [
         {Name = "mechanisms", URL = "/mechanisms/", HasChildren = true, Limit = 5},
