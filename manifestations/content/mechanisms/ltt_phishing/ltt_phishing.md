@@ -97,7 +97,7 @@ following this requirement, the branding of the attack makes more sense. keyword
 
 the site has dummy data as "proof" that it is in fact returning cryptocurrency to the users. these are cryptic garbage strings that give the impression of a real-time transaction table.
 
-{{< figure src="hashes.png" title="definitely real transaction hashes" align="center" >}}
+{{< figure src="../hashes.png" title="definitely real transaction hashes" align="center" >}}
 
 there are many other things that the site does to gain users' trust, such as displaying a real coin price widget in the header, or having a photograph of elon musk. a sense of urgency is given to the user, by telling them that the scheme can only be availed once. these are standard tactics performed by phishing agents, and one should be wary of them.
 
