@@ -1,0 +1,6 @@
+[submodule "manifestations/themes/ananke"]
+	path = manifestations/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "manifestations/themes/poison"]
+	path = manifestations/themes/poison
+	url = https://github.com/lukeorth/poison.git
