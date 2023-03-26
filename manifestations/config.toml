@@ -1,0 +1,20 @@
+baseURL = '/'
+languageCode = 'en-gb'
+title = 'manifestations'
+theme = 'poison'
+pluralizelisttitles = false
+
+[params]
+    brand = "manifestations"
+    brand_image = "/images/logo.png"   
+    description = "condensation of nascent imaginations upon reality."
+    dark_mode = true
+    DateForm = "2006/01/02"
+
+    twitter_url='https://twitter.com/PanDango11'
+    youtube_url='https://www.youtube.com/@hoopandango'
+
+    menu = [
+        {Name = "mechanisms", URL = "/mechanisms/", HasChildren = true, Limit = 5},
+        {Name = "about", URL = "/about/", HasChildren = false},
+    ]
