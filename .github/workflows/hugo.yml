@@ -33,6 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.111.3
+    defaults:
+      run:
+        working-directory: ./manifestations
     steps:
       - name: Install Hugo CLI
         run: |
